@@ -1,3 +1,6 @@
+/* Exersizes 1-3 and 1-4
+temp convert with while loop(fahr to celc then celc to fahr)*/
+
 #include <stdio.h>
 
 /* main() {
