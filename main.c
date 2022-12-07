@@ -19,6 +19,7 @@
         fahr = fahr + step;
     }
 } */
+
 main() {
     float celsius, fahr;
     int lower, upper, step;
@@ -36,4 +37,6 @@ main() {
         printf("%3.0f %15.1f\n", celsius, fahr);
         celsius = celsius + step;
     }
+    
+    return 0;
 }
